@@ -3,7 +3,7 @@ Tackling the Stanford's CS 106B class Online
 
 Heyo!,
 
-This is the new github repository where I will be posting the solutions that I come up with for the Stanford CS 106A course.  
+This is the new github repository where I will be posting the solutions that I come up with for the Stanford CS 106B course.  
 
 Best,
 Winston
