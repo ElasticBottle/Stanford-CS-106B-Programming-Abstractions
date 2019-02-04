@@ -1,0 +1,127 @@
+IMAGE
+map-stanford.jpg
+655
+398
+
+VERTICES
+Oval;367;243
+Quad;367;191
+Skilling;418;177
+Stern;239;131
+Wilbur;180;134
+Florence Moore;361;42
+Tresidder;359;96
+White Plaza;327;109
+Clock;323;150
+Meyer;287;162
+Palm;366;368
+Serra;132;241
+Encina;253;223
+Cogen;511;245
+Chem;419;286
+Bowdoin;136;98
+Alvarado;235;88
+Palou;477;262
+Terman;433;124
+Stadium;210;383
+Galvez;264;337
+Quarry;463;350
+Panama;569;252
+Welch;593;234
+West Campus;592;99
+East Campus;274;36
+Lake Lagunita;427;29
+History;326;221
+Toyon;207;205
+Mayfield;326;62
+Math;402;221
+Bonair;147;273
+Escondido;132;155
+Kimball;166;180
+GSB;323;273
+Med Center;510;334
+Carnegie;547;167
+Gates;437;246
+Jordan;504;154
+Lagunita;487;91
+Roble;450;75
+Governors Corner;566;57
+Green;287;193
+Old Union;377;131
+
+EDGES
+Galvez;Palm;0.25
+Galvez;Bonair;0.3
+Bonair;Serra;0.078
+Escondido;Serra;0.19
+Escondido;Bowdoin;0.12
+Bowdoin;Alvarado;0.23
+East Campus;Alvarado;0.14
+East Campus;Mayfield;0.13
+Mayfield;Tresidder;0.11
+Tresidder;West Campus;0.54
+West Campus;Welch;0.3
+Welch;Panama;0.068
+Panama;Palou;0.21
+Palou;Quarry;0.19
+Palm;Quarry;0.23
+Palm;Oval;0.27
+Galvez;Stadium;0.16
+Serra;Toyon;0.19
+Kimball;Toyon;0.11
+Escondido;Kimball;0.095
+Kimball;Wilbur;0.11
+Wilbur;Escondido;0.12
+Wilbur;Stern;0.14
+Stern;Toyon;0.18
+Toyon;Encina;0.11
+Stern;Encina;0.2
+Alvarado;Stern;0.093
+Meyer;Stern;0.13
+Meyer;Green;0.069
+Encina;Galvez;0.26
+Green;Encina;0.1
+Encina;GSB;0.23
+Toyon;Green;0.19
+Green;History;0.11
+History;Clock;0.16
+Clock;Meyer;0.086
+White Plaza;Clock;0.091
+White Plaza;Tresidder;0.078
+Clock;Quad;0.14
+History;Oval;0.11
+Math;Oval;0.093
+Quad;Math;0.1
+Skilling;Math;0.11
+Old Union;Clock;0.13
+Old Union;Terman;0.13
+Terman;Tresidder;0.18
+Florence Moore;Mayfield;0.09
+Lake Lagunita;Florence Moore;0.16
+Lake Lagunita;Tresidder;0.21
+Lake Lagunita;Roble;0.11
+Terman;Lagunita;0.14
+Tresidder;Roble;0.22
+Lagunita;Roble;0.091
+Governors Corner;Lagunita;0.2
+Jordan;Terman;0.18
+West Campus;Governors Corner;0.11
+Jordan;Carnegie;0.1
+Carnegie;Panama;0.19
+Cogen;Jordan;0.2
+Cogen;Palou;0.087
+Gates;Palou;0.099
+Math;Gates;0.098
+Gates;Chem;0.095
+Chem;Quarry;0.17
+History;GSB;0.12
+Terman;Skilling;0.12
+Clock;Skilling;0.23
+Quad;Old Union;0.14
+Old Union;Tresidder;0.087
+Quad;Oval;0.11
+Stern;White Plaza;0.21
+Lake Lagunita;Governors Corner;0.33
+Toyon;Meyer;0.21
+Oval;Gates;0.16
+Med Center;Quarry;0.11

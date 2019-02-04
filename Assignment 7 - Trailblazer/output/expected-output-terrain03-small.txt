@@ -1,0 +1,42 @@
+Welcome to CS 106B Trailblazer!
+This program searches for paths through graphs
+representing mazes and rocky terrains.
+It demonstrates several graph algorithms for
+finding paths, such as depth-first search (DFS),
+breadth-first search (BFS), Dijkstra's Algorithm,
+and A* search. You can also generate random mazes
+using Kruskal's algorithm.
+
+Loading world from terrain03-small.txt ...
+Preparing world model ...
+World model completed.
+
+Looking for a path from r19c08 to r17c22.
+Executing depth-first search algorithm ...
+Algorithm complete.
+Path length: 580
+Path cost: 3257.77
+Locations visited: 580
+
+Looking for a path from r19c08 to r17c22.
+Executing breadth-first search algorithm ...
+Algorithm complete.
+Path length: 15
+Path cost: 106
+Locations visited: 629
+
+Looking for a path from r19c08 to r17c22.
+Executing Dijkstra's algorithm ...
+Algorithm complete.
+Path length: 16
+Path cost: 95.9084
+Locations visited: 807
+
+Looking for a path from r19c08 to r17c22.
+Executing A* algorithm ...
+Algorithm complete.
+Path length: 16
+Path cost: 95.9084
+Locations visited: 52
+
+Exiting.

@@ -1,0 +1,13 @@
+# You should put your custom graph data in here.
+
+IMAGE
+map-usa.jpg
+654
+399
+
+VERTICES
+Dallas;310;296
+San Francisco;26;170
+
+EDGES
+Dallas;San Francisco;1720
