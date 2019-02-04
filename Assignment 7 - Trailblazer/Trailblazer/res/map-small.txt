@@ -1,0 +1,18 @@
+IMAGE
+map-usa.jpg
+654
+399
+
+VERTICES
+Washington, D.C.;536;176
+Minneapolis;349;100
+San Francisco;26;170
+Dallas;310;296
+
+EDGES
+Minneapolis;San Francisco;1777
+Minneapolis;Dallas;935
+Minneapolis;Washington, D.C.;1600
+San Francisco;Washington, D.C.;2200
+Dallas;San Francisco;1540 
+Dallas;Washington, D.C.;1319

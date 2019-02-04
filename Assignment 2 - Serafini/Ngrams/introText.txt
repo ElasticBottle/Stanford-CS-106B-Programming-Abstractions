@@ -1,0 +1,4 @@
+Welcome to CS 106B Random Writer ('N-Grams').
+This program makes random text based on a document. 
+Give me an input file and an 'N' value for groups 
+of words, and I'll create random text for you.

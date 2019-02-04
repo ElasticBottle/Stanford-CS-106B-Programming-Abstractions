@@ -1,0 +1,41 @@
+IMAGE
+map-middleearth.jpg
+653
+398
+
+VERTICES
+Hobbiton;147;86
+Southfarthing;163;112
+Bree;203;88
+Rivendell;317;87
+Moria;303;133
+Caradhras;327;116
+Isengard;291;194
+Lorien;323;161
+Edoras;305;225
+Rauros;395;227
+Minas Tirith;419;260
+Black Gate;452;224
+Cirith Ungol;458;273
+Mount Doom;478;247
+
+EDGES
+Hobbiton;Southfarthing;1
+Hobbiton;Bree;10;true
+Southfarthing;Isengard;50
+Bree;Rivendell;30
+Isengard;Edoras;50
+Rivendell;Moria;10
+Rivendell;Caradhras;30
+Moria;Lorien;40
+Caradhras;Lorien;30
+Edoras;Lorien;10
+Lorien;Rauros;5
+Edoras;Rauros;10
+Edoras;Minas Tirith;15
+Rauros;Black Gate;20
+Rauros;Minas Tirith;15
+Minas Tirith;Cirith Ungol;30
+Black Gate;Cirith Ungol;20
+Black Gate;Mount Doom;70
+Cirith Ungol;Mount Doom;40
