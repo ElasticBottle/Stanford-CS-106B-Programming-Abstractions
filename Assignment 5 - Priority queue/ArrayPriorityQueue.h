@@ -4,23 +4,20 @@
 // Also remove these comments here and add your own.
 // TODO: remove this comment header
 
-#ifndef _linkedpriorityqueue_h
-#define _linkedpriorityqueue_h
+#ifndef _arraypriorityqueue_h
+#define _arraypriorityqueue_h
 
-#include <cstddef>    // for NULL
 #include <iostream>
 #include <string>
-#include "ListNode.h"
 #include "PQEntry.h"
+
 using namespace std;
 
-/*
- * For documentation of each member, see VectorPriorityQueue.h.
- */
-class LinkedPriorityQueue {
+// TODO: comment
+class ArrayPriorityQueue {
 public:
-    LinkedPriorityQueue();
-    ~LinkedPriorityQueue();
+    ArrayPriorityQueue();
+    ~ArrayPriorityQueue();
     void changePriority(string value, int newPriority);
     void clear();
     string dequeue();
@@ -29,11 +26,15 @@ public:
     string peek() const;
     int peekPriority() const;
     int size() const;
-    friend ostream& operator <<(ostream& out, const LinkedPriorityQueue& queue);
+    friend ostream& operator <<(ostream& out, const ArrayPriorityQueue& queue);
 
 private:
-    // TODO: add any other member functions/variables necessary
+    PQEntry getTopPQEntry() const;
+    void moveElementsUp( PQEntry mostUrgent);
 
+    PQEntry* elements;
+    int capacity;
+    int currentSize;
 };
 
 #endif

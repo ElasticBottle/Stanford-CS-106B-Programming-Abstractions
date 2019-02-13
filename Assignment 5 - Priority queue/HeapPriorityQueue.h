@@ -30,7 +30,12 @@ public:
     friend ostream& operator <<(ostream& out, const HeapPriorityQueue& queue);
 
 private:
-    // TODO: add any other member functions/variables necessary
+    void bubbleUp();
+    void bubbleDown (int i);
+
+    PQEntry* elements;
+    int currentSize;
+    int capacity;
 
 };
 
