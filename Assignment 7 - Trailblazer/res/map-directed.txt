@@ -1,0 +1,43 @@
+IMAGE
+map-usa.jpg
+654
+399
+
+VERTICES
+Atlanta;462;273
+Augusta;593;65
+Bismarck;279;63
+Boston;583;111
+Chicago;415;152
+Denver;224;183
+Las Vegas;104;216
+Los Angeles;58;241
+Minneapolis;349;100
+New Orleans;384;327
+New York;557;131
+Orlando;506;350
+Phoenix;138;262
+San Francisco;26;170
+Seattle;64;31
+Washington, D.C.;536;176
+
+EDGES
+Atlanta;Orlando;360;true
+Boston;New York;140;true
+Chicago;Atlanta;530;true
+Chicago;New York;610;true
+Chicago;Washington, D.C.;520;true
+Denver;Chicago;820;true
+Las Vegas;Denver;530;true
+Las Vegas;Phoenix;230;true;true
+Los Angeles;Denver;740;true
+Los Angeles;Las Vegas;220;true
+Los Angeles;Phoenix;350;true
+Minneapolis;Chicago;350;true
+New York;Washington, D.C.;210;true
+San Francisco;Las Vegas;380;true
+San Francisco;Los Angeles;320;true
+Seattle;San Francisco;1800;true
+Seattle;Atlanta;2000;true
+Seattle;Denver;920;true
+Seattle;Minneapolis;1200;true

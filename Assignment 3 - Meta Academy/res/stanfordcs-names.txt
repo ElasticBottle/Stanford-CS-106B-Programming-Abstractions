@@ -1,0 +1,25 @@
+cs106b:Programming Paradigms
+cs221:Introduction to AI
+cs229:Machine Learning
+cs107:Computer Organization and Systems
+cs124:From Languages to Information
+cs246:Mining Massive Data Sets
+cs108:Object-Oriented Systems Design
+cs110:Principles of Computer Systems
+cs140:Operating Systems and Systems Programming
+cs143:Compilers
+cs144:Introduction to Computer Networking
+cs148:Introduction to Computer Graphics
+cs248:Interactive Computer Graphics
+cs198:Teaching Computer Science
+cs147:Intro to Human-Computer Interaction Design
+cs161:Design and Analysis of Algorithms
+cs154:Intro to Automata and Complexity Theory
+cs142:Web Applications
+cs181:Computers, Ethics, and Public Policy
+cs279:Computational Biology
+cs274:Representations and Algorithms for Computational Biology
+cs228:Probabilistic Graphical Models
+cs131:Computer Vision
+cs145:Introduction to Databases
+cs157:Logic and Automated Reasoning

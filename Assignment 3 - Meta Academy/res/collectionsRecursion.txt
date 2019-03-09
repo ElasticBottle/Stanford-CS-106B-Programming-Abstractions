@@ -1,0 +1,18 @@
+QUESTION:Write a function named FUNC with a DS as a parameter called PARAM. Your job is to V it and return a VAL. Good luck!
+-----
+VAL:DS|PRIM
+-----
+PRIM:bool|int|string|double|char
+-----
+DS:SN< DS >|SN<PRIM>|DN< DS, DS >|DN<PRIM, PRIM>|DN< DS, PRIM>|DN<PRIM, DS >
+-----
+SN:Vector|Queue|Stack|Set|HashSet|PriorityQueue
+-----
+DN:Map|HashMap
+-----
+V:sort|split|reverse|delete|double
+-----
+FUNC:isValid|changeStructure|manageValues|alterData
+-----
+PARAM:v|n|val|nums|target|s|len
+-----

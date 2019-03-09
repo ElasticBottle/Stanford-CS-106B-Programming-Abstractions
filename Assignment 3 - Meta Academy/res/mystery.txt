@@ -1,0 +1,24 @@
+QUESTION:int mystery(int level, int x) {
+   if(level == 0) {
+      return NUM;
+   } else {
+      int r = CALL;
+      return COMBO;
+   }
+}
+What is the result of mystery(3, 5);
+-----
+RECURSION:CALL|CALL OP TERM
+-----
+CALL:mystery(level - 1, XEXP)
+-----
+COMBO:REXP OP XEXP
+-----
+XEXP:x|x OP XEXP|x OP NUM
+-----
+REXP:r|r OP REXP|r OP NUM
+-----
+NUM:1|5
+-----
+OP:+|-|*|%|/
+-----

@@ -1,0 +1,19 @@
+QUESTION:int mystery(int level, int x) {
+   if(level == 0) {
+      return NUM;
+   } else {
+      return RECURSION;
+   }
+}
+What is the result of mystery(3, 5);
+-----
+RECURSION:CALL|CALL OP TERM
+-----
+CALL:mystery(level - 1, EXP)
+-----
+EXP:TERM|EXP OP TERM
+-----
+TERM:CALL|x|1|5|-TERM
+-----
+OP:+|-|*|%|/
+-----

@@ -1,0 +1,7 @@
+Welcome to the CS106B Game of Life,
+A simulation of the lifecycle of a bacteria colony. 
+Cells (X) live and die by the following rules:
+- A cell with 1 or fewer neighbors dies.
+- Locations with 2 neighbors remain stable.
+- Locations with 3 neighbors will create life.
+- A cell with 4 or more neighbors dies.

@@ -1,0 +1,74 @@
+IMAGE
+map-usa.jpg
+654
+399
+
+VERTICES
+San Francisco;26;170
+Los Angeles;58;241
+Orlando;506;350
+Washington, D.C.;536;176
+New York;557;131
+Dallas;310;296
+Portland;43;85
+Minneapolis;349;100
+Oklahoma City;298;244
+Raleigh;532;227
+New Orleans;384;327
+Denver;224;183
+Salt Lake City;148;152
+Seattle;64;31
+Chicago;415;152
+Atlanta;462;273
+Boston;583;111
+Phoenix;138;262
+Las Vegas;104;216
+Kansas City;334;193
+Bismarck;279;63
+Augusta;593;65
+
+EDGES
+San Francisco;Los Angeles;320;true
+San Francisco;Portland;350
+San Francisco;Las Vegas;380;true
+San Francisco;Salt Lake City;530
+San Francisco;Denver;850
+Seattle;Portland;230
+Boston;New York;140
+Dallas;New Orleans;340
+Los Angeles;Las Vegas;220;true
+New York;Washington, D.C.;210
+Minneapolis;Chicago;350
+Oklahoma City;Dallas;220
+Oklahoma City;Kansas City;250
+Las Vegas;Phoenix;230;true
+Los Angeles;Phoenix;350
+Washington, D.C.;Raleigh;200;true
+Dallas;Phoenix;750
+Los Angeles;Denver;740
+San Francisco;Chicago;1700
+San Francisco;Minneapolis;1400
+San Francisco;Washington, D.C.;2050
+San Francisco;New York;2300
+Los Angeles;Washington, D.C.;2100
+Los Angeles;New York;2200
+Denver;Kansas City;470
+Denver;Chicago;820
+Chicago;Washington, D.C.;520;true
+Chicago;New York;610;true
+New York;Minneapolis;900
+Seattle;Minneapolis;1200
+Seattle;Denver;920;true
+Seattle;Atlanta;2000;true
+Atlanta;Orlando;360;true
+Atlanta;Raleigh;350
+Atlanta;New Orleans;400
+Phoenix;Oklahoma City;690
+Denver;Oklahoma City;400;true
+Salt Lake City;Denver;350
+Salt Lake City;Portland;520
+Las Vegas;Denver;530;true
+Minneapolis;Kansas City;380
+Chicago;Atlanta;530
+Kansas City;New Orleans;580
+Dallas;Atlanta;660;true
