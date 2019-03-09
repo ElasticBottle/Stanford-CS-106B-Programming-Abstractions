@@ -2,7 +2,7 @@
 
 Details for [Huffman][1]!
 
-The main aim of this assignemnt is to take a string of text and encode it using the Huffman encryption algorithm.
+The main aim of this assignment is to take a string of text and encode it using the Huffman encryption algorithm.
 
 In order to do this, there is 4 parts:
 1. Build a frequency table for the occurrences of each character (including space and punctuations).
@@ -39,7 +39,7 @@ The size of the ehader will become practically nothing and the size savings will
 [Example run 3][5]
 
 [1]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164//assn/huffman.html
-[2]: ../Assignment 5 - Priority queue/ 
+[2]: ../Assignment_5_-_Priority_queue/ 
 [3]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/assnFiles/huffman/output/expected-output-7.txt
 [4]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/assnFiles/huffman/output/expected-output-3.txt
 [5]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/assnFiles/huffman/output/expected-output-6.txt
