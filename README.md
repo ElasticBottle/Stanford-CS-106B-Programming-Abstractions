@@ -3,8 +3,13 @@ Tackling the Stanford's CS 106B class Online
 
 Heyo All!
 
-This is the new github repository where I will be posting the solutions that I come up with for the Stanford CS 106B course.
-I am still very much learning and if you noticed something wronog with my code/bad-style/redundancy etc. please highlight it to me and I will be very glad to learn from it and have the code corrected to become better!
+This is the new _github repository_ where I will be posting the _solutions_ that I come up with _for the Stanford CS 106B course_.
+
+I am still very much learning! 
+
+If you noticed something wrong with my code/bad-style/redundancy etc. please highlight it to me and I will be very glad to learn from it and have the code corrected to become better!
+
+Also, check out the [wiki][1] if you're interested in taking this course in your own time but cannot commit much time
 
 Kaizen,
 Winston
@@ -17,4 +22,5 @@ You have been warned!
 
 Till next time, have fun!
 
+[1]: https://github.com/ElasticBottle/Stanford-CS-106B/wiki/Stanford-Introduction-To-Computer-Science-Programming-Abstraction-CS106B-Class-Guide
 
