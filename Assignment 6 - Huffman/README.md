@@ -39,7 +39,7 @@ The size of the ehader will become practically nothing and the size savings will
 [Example run 3][5]
 
 [1]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164//assn/huffman.html
-[2]: ../Assignment_5_-_Priority_queue/ 
+[2]: ../Assignment%205%20-%20Priority%20queue/ 
 [3]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/assnFiles/huffman/output/expected-output-7.txt
 [4]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/assnFiles/huffman/output/expected-output-3.txt
 [5]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/assnFiles/huffman/output/expected-output-6.txt
