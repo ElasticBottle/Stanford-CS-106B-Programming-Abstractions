@@ -35,7 +35,9 @@ The size of the ehader will become practically nothing and the size savings will
 ## Links to example runs
 
 [Example run 1][3]
+
 [Example run 2][4]
+
 [Example run 3][5]
 
 [1]: http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164//assn/huffman.html
